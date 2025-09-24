@@ -312,7 +312,6 @@ case "$UEFI_PROJECT" in
     UEFI_PROJECT_PATH="Platform/CIX/Sky1"
     ;;
 ("MGP1WSB")
-    UEFI_PROJECT_FOLDER="edk2-project"
     UEFI_PROJECT_PATH="Platform/CIX/Sky1"
     ;;
 ("SixUnited")
