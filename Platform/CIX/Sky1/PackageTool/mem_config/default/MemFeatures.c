@@ -36,6 +36,5 @@ MEM_CONFIG_BLOCK_FEATURE MemFeatureBlock = {
     .TrainMode        = 0,
     .PeriodicTrain    = 0,
     .SSC              = 0,
-    .DfsEn            = 0,
   }
 };

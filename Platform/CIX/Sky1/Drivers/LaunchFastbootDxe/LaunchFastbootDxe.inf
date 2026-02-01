@@ -56,9 +56,6 @@
 
 [Pcd]
 
-[Pcd]
-  gCixPlatformTokenSpaceGuid.AndroidFastboot
-
 [FixedPcd]
 
 [Depex]
